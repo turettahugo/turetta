@@ -1,0 +1,2 @@
+# turetta
+aula pensamento computacional
